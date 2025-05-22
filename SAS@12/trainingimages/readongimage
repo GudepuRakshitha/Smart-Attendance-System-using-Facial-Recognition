@@ -1,0 +1,6 @@
+import cv2
+img=cv2.imread("C:\Users\raksh\Downloads\SAS19\SAS@12\trainingimages\444_01.jpg")
+imp_gray=cvtColor(img,cv2.COLOR_BAYER_BG2GRAY)
+print(imp_gray.shape)
+cv2.imshow("window",img_gray)
+cv2.waitKey(0)
