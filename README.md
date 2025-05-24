@@ -32,7 +32,6 @@ The **Smart Attendance System** is an AI-powered solution that uses **facial rec
 
 ### 🔹 Tools
 - VS Code
-- Jupyter (optional for testing)
 - Webcam or IP Camera
 
 ---
